@@ -90,14 +90,11 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-<<<<<<< HEAD
   ],
   "main": ".eslintrc.js",
   "directories": {
     "test": "test"
   },
   "license": "ISC"
-=======
-  ]
->>>>>>> a469e689cd9ca077d39acfb368df128867cb427a
+
 }
